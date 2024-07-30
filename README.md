@@ -15,3 +15,15 @@ Além disso, o Jest possui um sistema robusto de mocking, que permite simular de
 Embora o Jest seja uma ferramenta de teste geral para JavaScript, ele é especialmente compatível com projetos React, tornando-se uma escolha preferida entre desenvolvedores que trabalham com essa biblioteca.
 
 Por fim, o Jest fornece relatórios de teste detalhados e claras ferramentas de depuração, o que ajuda a identificar rapidamente falhas e problemas nos testes. Esses recursos combinados tornam o Jest uma solução eficaz e fácil de usar para testes em projetos JavaScript modernos.
+
+# Como acessar?
+
+git clone https://github.com/xsalles/jest.git
+
+cd jest
+
+npm i
+
+Acesse o terminal clicando ctrl+j e digite: 
+
+npm run dev
