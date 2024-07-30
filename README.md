@@ -18,12 +18,12 @@ Por fim, o Jest fornece relatórios de teste detalhados e claras ferramentas de 
 
 # Como acessar?
 
-git clone https://github.com/xsalles/jest.git
+<code>git clone https://github.com/xsalles/jest.git</code>
 
-cd jest
+<code>cd jest</code>
 
-npm i
+<code>npm i</code>
 
 Acesse o terminal clicando ctrl+j e digite: 
 
-npm run dev
+<code>npm run dev</code>
