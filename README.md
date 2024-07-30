@@ -1,20 +1,20 @@
 # Jest
 
-O Jest é uma ferramenta de teste para JavaScript desenvolvida pelo Facebook, conhecida por sua simplicidade e eficácia. Sua principal vantagem é a configuração mínima necessária; com o Jest, é possível começar a escrever e executar testes com pouco esforço, sem precisar lidar com configurações complexas.
+Jest is a JavaScript testing tool developed by Facebook known for its simplicity and effectiveness. Its main advantage is the minimal configuration required; With Jest, you can start writing and running tests with little effort, without having to deal with complex configurations.
 
-Uma das qualidades que o tornam tão popular é a rapidez com que executa os testes. O Jest utiliza um sistema de cache inteligente que faz com que apenas os testes relacionados às alterações recentes sejam executados, economizando tempo precioso durante o desenvolvimento.
+One of the qualities that make it so popular is how quickly it runs tests. Jest uses an intelligent caching system that only runs tests related to recent changes, saving precious time during development.
 
-O Jest também é excelente no tratamento de testes assíncronos, algo essencial para a maioria dos códigos modernos que fazem uso de promessas e funções assíncronas. Isso facilita a criação de testes robustos para diferentes tipos de código.
+Jest is also excellent at handling asynchronous testing, which is essential for most modern code that makes use of promises and asynchronous functions. This makes it easier to create robust tests for different types of code.
 
-Um dos recursos mais inovadores do Jest é o snapshot testing. Essa funcionalidade permite capturar o estado de um componente ou a saída de uma função em um determinado momento e compará-lo com o estado futuro, ajudando a detectar alterações inesperadas de forma eficiente.
+One of Jest's most innovative features is snapshot testing. This functionality allows you to capture the state of a component or the output of a function at a given time and compare it with the future state, helping to detect unexpected changes efficiently.
 
-Outra vantagem é a integração fácil com ferramentas de cobertura de código. O Jest permite verificar facilmente quais partes do seu código estão sendo testadas, garantindo uma cobertura adequada e identificando áreas que possam precisar de mais testes.
+Another advantage is easy integration with code coverage tools. Jest allows you to easily check which parts of your code are being tested, ensuring adequate coverage and identifying areas that may need further testing.
 
-Além disso, o Jest possui um sistema robusto de mocking, que permite simular dependências e comportamentos específicos durante os testes. Isso é especialmente útil para testar componentes de forma isolada, sem depender de seus contextos externos.
+Additionally, Jest has a robust mocking system, which allows you to simulate specific dependencies and behaviors during testing. This is especially useful for testing components in isolation, without relying on their external contexts.
 
-Embora o Jest seja uma ferramenta de teste geral para JavaScript, ele é especialmente compatível com projetos React, tornando-se uma escolha preferida entre desenvolvedores que trabalham com essa biblioteca.
+Although Jest is a general testing tool for JavaScript, it is especially compatible with React projects, making it a preferred choice among developers working with this library.
 
-Por fim, o Jest fornece relatórios de teste detalhados e claras ferramentas de depuração, o que ajuda a identificar rapidamente falhas e problemas nos testes. Esses recursos combinados tornam o Jest uma solução eficaz e fácil de usar para testes em projetos JavaScript modernos.
+Finally, Jest provides detailed test reports and clear debugging tools, which helps you quickly identify test failures and issues. These features combined make Jest an effective and easy-to-use solution for testing modern JavaScript projects.
 
 # Como acessar?
 
